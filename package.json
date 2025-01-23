@@ -1,0 +1,22 @@
+{
+  "name": "oppgave1-ssr",
+  "version": "1.0.0",
+  "description": "oppgave1",
+  "main": "index.js",
+"scripts": {
+    "serve": "node index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PotatoCracker420/oppgave1-SSR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PotatoCracker420/oppgave1-SSR/issues"
+  },
+  "homepage": "https://github.com/PotatoCracker420/oppgave1-SSR#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
